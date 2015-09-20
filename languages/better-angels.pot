@@ -1,0 +1,113 @@
+# Copyright (C) 2015 Better Angels first responder system
+# This file is distributed under the same license as the Better Angels first responder system package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Angels first responder system 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/better-angels\n"
+"POT-Creation-Date: 2015-09-20 00:01:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: better-angels.php:47 better-angels.php:231
+msgid "Better Angels Settings"
+msgstr ""
+
+#: better-angels.php:48
+msgid "Better Angels"
+msgstr ""
+
+#: better-angels.php:55
+msgid "Guardian Angels"
+msgstr ""
+
+#: better-angels.php:56
+msgid "Choose your Guardian Angels"
+msgstr ""
+
+#: better-angels.php:77
+msgid ""
+"Better Angels is provided as free software, but sadly grocery stores do not "
+"offer free food. If you like this plugin, please consider %1$s to its %2$s. "
+"&hearts; Thank you!"
+msgstr ""
+
+#: better-angels.php:78
+msgid "making a donation"
+msgstr ""
+
+#: better-angels.php:79
+msgid "houseless, jobless, nomadic developer"
+msgstr ""
+
+#: better-angels.php:159 better-angels.php:227
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: better-angels.php:168
+msgid "Chosoe your guardian angels"
+msgstr ""
+
+#: better-angels.php:171
+msgid "Choose your angels"
+msgstr ""
+
+#: better-angels.php:176
+msgid "Add a guardian"
+msgstr ""
+
+#: better-angels.php:179
+msgid "Michelle"
+msgstr ""
+
+#: better-angels.php:185
+msgid ""
+"Your guardians are the people you want to notify in the event of an "
+"emergency. Type your trusted friends names in the text box, then press "
+"%1$sSave Changes%2$s at the bottom of this page."
+msgstr ""
+
+#: better-angels.php:193
+msgid "Remove a guardian"
+msgstr ""
+
+#: better-angels.php:197
+msgid ""
+"You have not chosen any guardians. Maybe you want to %1$sadd a guardian%2$s?"
+msgstr ""
+
+#: better-angels.php:212
+msgid ""
+"These are your current guardians. To remove one of them so that they no "
+"longer receive notifications when you are in an emergency situation, uncheck "
+"their box and click %1$sSave Changes%2$s at the bottom of this page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Better Angels first responder system"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/meitar/better-angels"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A community-driven emergency first responder system. <strong>Like this "
+"plugin? Please <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+"cmd=_donations&amp;business=TJLPJYXHSRBEE&amp;lc=US&amp;item_name=Better"
+"%20Angels&amp;item_number=better-angels&amp;currency_code=USD&amp;bn=PP"
+"%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted\" title=\"Send a donation "
+"to the developer of Better Angels\">donate</a>. &hearts; Thank you!</strong>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Maymay <bitetheappleback@gmail.com>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://maymay.net/"
+msgstr ""
