@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="222.04566"
+     inkscape:cx="381.64976"
      inkscape:cy="197.90101"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,24 +103,42 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot5722"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:76.27883148px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.96675062,0,0,1,-54.559438,818.14756)"><flowRegion
-         id="flowRegion5724"><rect
-           id="rect5726"
-           width="565.26007"
-           height="322.84079"
-           x="375.62378"
-           y="-62.463715"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:76.27883148px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5728"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:76.27883148px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:76.27883148px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
-   id="flowSpan6750">CALL A</flowSpan> FRIEND,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:76.27883148px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         id="flowPara6040"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:76.27883148px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
-   id="flowSpan6752">NOT THE</flowSpan> COPS.</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:75px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="313.83591"
+       y="835.54669"
+       id="text7207"
+       sodipodi:linespacing="150%"
+       transform="scale(0.98323477,1.0170511)"><tspan
+         sodipodi:role="line"
+         x="554.50977"
+         y="948.04669"
+         id="tspan7209"><tspan
+           x="313.83591"
+           y="835.54669"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7211">CALL A</tspan><tspan
+           x="554.50977"
+           y="835.54669"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:75px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           id="tspan7213"> FRIEND,</tspan><tspan
+           dx="0"
+           x="857.14642"
+           y="835.54669"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:75px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           id="tspan7215" /></tspan><tspan
+         sodipodi:role="line"
+         x="629.65619"
+         y="0"
+         id="tspan7217"><tspan
+           x="313.83591"
+           y="948.04669"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7219">NOT THE</tspan><tspan
+           x="629.65619"
+           y="948.04669"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:75px;line-height:150%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           id="tspan7221"> COPS.</tspan></tspan></text>
+  </g>
 </svg>
